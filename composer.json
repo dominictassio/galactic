@@ -1,0 +1,6 @@
+{
+    "require": {
+        "xpaw/php-minecraft-query": "@dev",
+        "mustache/mustache": "~2.8"
+    }
+}
